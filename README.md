@@ -10,8 +10,8 @@ You can make your own NNK:
 - Pencils
 - Markers
 - Electrical Tape
-- Precision Screw Driver Set, Micro SD Card, Power Adapter
-- Raspberry Pi
+- Precision Screw Driver Set
+- Raspberry Pi, Micro SD Card, Power Adapter (Pre-configured with Kismet!)
 - Alfa AWUS036H 1000mW 1W 802.11b/g USB Wireless WiFi Adapter
 - 9dBi Antenna
 - USGlobalsat BU-353-S4 USB GPS Receiver
